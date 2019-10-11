@@ -1,0 +1,60 @@
+.jumbotron{
+    text-align: center;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    color: brown;
+}
+.card-body .btn{
+    font-size:1.4rem;
+    text-transform: capitalize;
+}
+
+.card .card-body .card-title{
+    font-weight: 700;
+    font-size:1.2rem;
+    color: tomato; 
+}
+
+
+/* breadscrumb start here  */
+.breadcrumbs .list{
+    display: inline-block;
+    margin-top:15px;
+
+}
+.breadcrumbs ul li a{
+    text-transform: uppercase;
+    color: white;
+    font-size: 30px;
+    background: transparent;
+    background:green;
+
+}
+.breadcrumbs{
+    background-image: url("../breadscrumb1.jpg");
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size:auto;
+    position: relative;
+    padding: 150px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.breadcrumbs h2{
+    color:#fff;
+    font-size: 45px;
+    font-weight: 700;
+    /* letter-spacing: 0.3rem; */
+}
+/* breadscrumb end here  */
+
+
+/* event heading css start here */
+    .event-head h1{
+
+        font-size: 45px;
+        margin-bottom: 40px;
+        color: darkviolet;
+        font-weight: 700;
+    }
+/* event heading end start here */

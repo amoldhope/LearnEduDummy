@@ -1,0 +1,33 @@
+ .card-body .btn{
+    font-size: 1.3rem;
+}
+
+/* breadscrumb start here  */
+.breadcrumbs .bread-list{
+    display: inline-block;
+    margin-top:15px;
+
+}
+.breadcrumbs ul li a{
+    text-transform: uppercase;
+    color: white;
+    font-size: 20px;
+    /* background: transparent; */
+    background:green;
+}
+.breadcrumbs{
+    background-image: url("../breadscrumb1.jpg");
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size:auto;
+    position: relative;
+    padding: 150px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.breadcrumbs h2{
+    color: white;
+    font-size: 45px;
+    font-weight: 700;
+}
+/* breadscrumb end here  */
